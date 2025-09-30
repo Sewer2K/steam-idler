@@ -1,14 +1,14 @@
 {
     "playingGames": [
         {
-            "Sewer": ["Femboy Aim Trainer", 2415960, 2219970, 3217380],
-            "Pandolen": [730, 440]
+            "Sewer": ["Femboy Aim Trainer", 2415960, 2219970, 3217380, 730, 440, 252490],
+            "Pandolen": [730, 440, 2395210, 1604030, 252490]
         },
         "General Game",
         714010
     ],
     "onlinestatus": 1,
-    "afkMessage": "Hi, I'm Currently Unavailable Due To Gooning in Femboy Aim Trainer.",
+    "afkMessage": "Hi, I'm Currently Unavailable Due To Making Cofffee Please Reach Out To Me Another Time.",
     "loginDelay": 2000,
     "relogDelay": 15000,
     "useLocalIP": true,
