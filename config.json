@@ -1,5 +1,12 @@
 {
-    "playingGames": ["Femboy Aim Trainer", 2415960, 730, 2219970, 3217380, 440, 714010],
+    "playingGames": [
+        {
+            "Sewer": ["Femboy Aim Trainer", 2415960, 2219970, 3217380],
+            "Pandolen": [730, 440]
+        },
+        "General Game",
+        714010
+    ],
     "onlinestatus": 1,
     "afkMessage": "Hi, I'm Currently Unavailable Due To Gooning in Femboy Aim Trainer.",
     "loginDelay": 2000,
